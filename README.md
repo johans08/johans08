@@ -14,7 +14,7 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
  
  :books: Quiero aprender  <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">  <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">  <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
  
- 👯 Estudiante entusiasta de Ingenieria en sistemas
+🧑🏻‍💻 Estudiante entusiasta de Ingenieria en sistemas
  
  💬 Dispuesto a ayudar con lo que necesiten, si tengo la oportunidad de ayudar, estoy a la orden.
 
