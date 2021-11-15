@@ -48,12 +48,15 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
 ---
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="johans08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="johans08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
 ---
+![johans08 GitHub stats](https://github-readme-stats.vercel.app/api?username=johans08&show_icons=true&theme=radical)  
+
+
 :star: From [johans08](https://github.com/johans08)
 
 
