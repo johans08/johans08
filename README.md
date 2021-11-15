@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://c.tenor.com/4Lki-C_S78EAAAAC/game-video-games.gif" width="15%" title="Intro Card" alt="Intro Card">
+  <img src="https://c.tenor.com/4Lki-C_S78EAAAAC/game-video-games.gif" width="20%" title="Intro Card" alt="Intro Card">
 </p>
 
 Soy un desarrollador de software entusiasta que actualmente busca trabajo, siempre esforzándome por contribuir a las actividades de resolución de problemas. :wink:
@@ -27,12 +27,15 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
 
 ### Tecnologias y herramientas que prefiero
 
+<img src="http://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="http://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
@@ -40,10 +43,12 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
+
+
 ---
 
 ### Otros lenguajes que sé 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 
@@ -56,9 +61,7 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
 ---
 ![johans08 GitHub stats](https://github-readme-stats.vercel.app/api?username=johans08&show_icons=true&theme=radical)  
 
-
 :star: From [johans08](https://github.com/johans08)
-
 
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/johans08_v/
