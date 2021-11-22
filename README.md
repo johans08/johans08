@@ -52,7 +52,7 @@ Soy un desarrollador de software entusiasta que actualmente busca trabajo, siemp
 
 ---
 
-### You can find in me in the web 🌍
+### Redes donde me puedes encontrar 🌍
 [<img align="left" alt="johans08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="johans08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
