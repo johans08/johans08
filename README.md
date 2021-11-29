@@ -6,7 +6,7 @@
   <img src="https://c.tenor.com/4Lki-C_S78EAAAAC/game-video-games.gif" width="20%" title="Intro Card" alt="Intro Card">
 </p>
 
-Soy un desarrollador de software entusiasta que actualmente busca trabajo, siempre esforzándome por contribuir a las actividades de resolución de problemas. :wink:
+Soy un desarrollador de software entusiasta, siempre esforzándome por contribuir a las actividades de resolución de problemas. :wink:
  
  🔭 Estoy desarrollando **Proyectos web personales para aumentar mi conocimiento**.
  
