@@ -35,9 +35,9 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 ---
 
 ### Conéctate conmigo 🌍
-[<img align="left" alt="johans08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="johans08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="johans08 | Sitio Web" width="22px" src="https://img.shields.io/badge/johanswebs.com-4c4c4c?style=flat&logo=google-chrome&logoColor=white" />](https://johanswebs.com)
+[instagram]: https://www.instagram.com/johans08_v/
+[linkedin]: https://www.linkedin.com/in/johans-valverde-d%C3%ADaz-7bb76b1bb/
+🌍 [<img align="left" alt="johans08 | Sitio Web" width="42px" src="https://img.shields.io/badge/johanswebs.com-4c4c4c?style=flat&logo=google-chrome&logoColor=white" />](https://johanswebs.com)
 
 <br/>
 
@@ -47,7 +47,5 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 
 :star: Desde [johans08](https://github.com/johans08)
 
-[instagram]: https://www.instagram.com/johans08_v/
-[linkedin]: https://www.linkedin.com/in/johans-valverde-d%C3%ADaz-7bb76b1bb/
 
 
