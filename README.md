@@ -24,7 +24,7 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-IIS-000000?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
@@ -34,15 +34,10 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 
 ---
 
-### Otros Lenguajes
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
-
----
-
 ### Conéctate conmigo 🌍
 [<img align="left" alt="johans08 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="johans08 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="johans08 | Sitio Web" width="22px" src="https://img.shields.io/badge/johanswebs.com-4c4c4c?style=flat&logo=google-chrome&logoColor=white" />](https://johanswebs.com)
 
 <br/>
 
@@ -52,7 +47,7 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 
 :star: Desde [johans08](https://github.com/johans08)
 
-[youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/johans08_v/
 [linkedin]: https://www.linkedin.com/in/johans-valverde-d%C3%ADaz-7bb76b1bb/
+
 
