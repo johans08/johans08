@@ -10,8 +10,6 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 
 🌱 Estoy aprendiendo MongoDB <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> y fortaleciendo mis habilidades en desarrollo web <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 
-:books: Quiero explorar <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">, <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">, <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> y más.
-
 💬 Dispuesto a ayudar con lo que necesiten, ¡estoy a la orden!
 
 ---
@@ -24,7 +22,7 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-IIS-000000?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-IIS-000000?style=flat&logo=iis&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
@@ -35,10 +33,9 @@ Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web 
 ---
 
 ### Conéctate conmigo 🌍
-[instagram]: https://www.instagram.com/johans08_v/
-[linkedin]: https://www.linkedin.com/in/johans-valverde-d%C3%ADaz-7bb76b1bb/
-🌍 [<img align="left" alt="johans08 | Sitio Web" width="42px" src="https://img.shields.io/badge/johanswebs.com-4c4c4c?style=flat&logo=google-chrome&logoColor=white" />](https://johanswebs.com)
 
+<img src="https://img.shields.io/badge/@Johans08_v-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Johans Valverde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br/>
 
 ---
