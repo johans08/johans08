@@ -19,7 +19,7 @@ Soy un desarrollador de software entusiasta, siempre esforzándome por contribui
  💬 Dispuesto a ayudar con lo que necesiten, estoy a la orden.
 
 
-![Profile views](https://gpvc.arturio.dev/johans08)  <img src="https://img.shields.io/github/followers/johans08?label=Follow" style=" float:left, margin-right:10px" />
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=johans08)]  <img src="https://img.shields.io/github/followers/johans08?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -27,7 +27,7 @@ Soy un desarrollador de software entusiasta, siempre esforzándome por contribui
 
 ### Tecnologias y herramientas que prefiero
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white"> 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
