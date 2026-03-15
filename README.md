@@ -1,48 +1,82 @@
-### ¡Hola, Soy Johans Valverde! 👋
+# 👋 Hola, soy Johans Valverde
 
-<p align="center">
-  <img src="https://c.tenor.com/4Lki-C_S78EAAAAC/game-video-games.gif" width="20%" title="Intro Card" alt="Intro Card">
-</p>
+🚀 **DevOps & Cloud Engineer | Infrastructure as Code | Automation**
 
-Soy un Ingeniero en Sistemas especializado en el desarrollo de aplicaciones web y desktop con .NET. Con más de dos años de experiencia, he trabajado en proyectos tanto en el frontend como en el backend. Actualmente, estoy en busca de nuevos desafíos profesionales para seguir creciendo en el campo del desarrollo de software. :wink:
+Ingeniero en Sistemas con más de **5 años de experiencia trabajando con infraestructura cloud, automatización y prácticas DevOps**.
 
-🔭 Actualmente desarrollo **Proyectos web personales para aumentar mi conocimiento**.
-
-🌱 Estoy aprendiendo MongoDB <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> y fortaleciendo mis habilidades en desarrollo web <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-
-💬 Dispuesto a ayudar con lo que necesiten, ¡estoy a la orden!
+Especializado en **Azure, AWS, Terraform, Docker y CI/CD con GitLab**, enfocado en construir plataformas escalables, automatizar procesos y mejorar el ciclo de entrega de software.
 
 ---
 
-### Tecnologías y Herramientas que manejo
+# ⚙️ DevOps Philosophy
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white"> 
+> *Automate everything, monitor everything, improve continuously.*
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-IIS-000000?style=flat&logo=iis&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-SQLServer-F29111?style=flat&logo=sqlserver&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+Mi enfoque profesional se basa en:
+
+- 🔄 Automatización de infraestructura
+- 🚀 CI/CD y entrega continua
+- ☁️ Arquitecturas cloud escalables
+- 🔐 DevSecOps
+- 📊 Observabilidad y monitoreo
 
 ---
 
-### Conéctate conmigo 🌍
+# ☁️ Cloud & DevOps Stack
 
-<img src="https://img.shields.io/badge/@Johans08_v-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/Johans Valverde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<br/>
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### DevOps
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Programming
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-![johans08 GitHub stats](https://github-readme-stats.vercel.app/api?username=johans08&show_icons=true&theme=radical)  
+# 📜 Certificaciones
 
-:star: Desde [johans08](https://github.com/johans08)
+🎓 Docker Administrator  
+🎓 Infrastructure as Code – Terraform  
+🎓 Scrum Master Professional  
+🎓 Scrum Foundation Professional  
 
+📚 Actualmente preparándome para:
 
+- AWS Solutions Architect Associate
+- Azure Solutions Architect Expert (AZ-305)
 
+---
+
+# 📂 En lo que estoy trabajando
+
+- Infraestructura como código con **Terraform**
+- Pipelines **CI/CD con GitLab**
+- Arquitecturas cloud en **AWS y Azure**
+- Contenerización de aplicaciones con **Docker**
+
+---
+
+# 📈 GitHub Stats
+
+![Johans GitHub stats](https://github-readme-stats.vercel.app/api?username=johans08&show_icons=true&theme=tokyonight)
+
+---
+
+# 🤝 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Johans%20Valverde-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johans-valverde-díaz-7bb76b1bb)
+
+🐙 GitHub: https://github.com/johans08
+
+---
+
+⚡ **Always learning. Always automating. Always improving.**
